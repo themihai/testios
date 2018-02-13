@@ -1,0 +1,2 @@
+rm -rf App.framework
+gomobile bind -target=ios github.com/themihai/testios/client
